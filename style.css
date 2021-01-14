@@ -1,5 +1,5 @@
-body{
-    
+body {
+    font-family: 'Montserrat', sans-serif;
 }
 
 .topo{
@@ -56,4 +56,35 @@ nav a:hover {
 
 .obs {
     font-size: 12px;
+    margin-bottom: 40px;
 }
+
+.html{
+    width: 940px;
+    text-align:justify;
+}
+
+.titulo-html {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 30px;
+    text-align: center;
+    
+}
+
+.html p {
+    line-height: 125%;
+    margin-top: 1em;
+}
+
+.teste{
+    position: absolute;
+    width: 800px;
+}
+    
+.ex-title{
+    float: right;
+    margin:
+}
+
+        
