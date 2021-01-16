@@ -74,17 +74,32 @@ nav a:hover {
 
 .html p {
     line-height: 125%;
-    margin-top: 1em;
+    margin-top: 1.5em;
+    margin-bottom: 1em;
 }
 
-.teste{
-    position: absolute;
+.ex-titlle1{
+    display: inline;
     width: 800px;
+    
 }
     
-.ex-title{
-    float: right;
-    margin:
-}
+.ex-img{
+    
+    position:absolute;
+    left:700px;
+    top:548px;
+    
+}    
 
+.ex-img3{
+    
+    position:absolute;
+    left:80px;
+    top:765px;
+    
+}    
+
+
+        
         
