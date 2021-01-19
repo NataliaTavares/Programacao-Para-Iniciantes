@@ -7,6 +7,7 @@ body {
     background-color: #2E2E2E;
     color: white;
     
+    
 }
 
 .titulo-princial{
@@ -65,7 +66,7 @@ nav a:hover {
 }
 
 .titulo-html {
-    font-size: 2em;
+    font-size: 1.8em;
     font-weight: bold;
     margin-bottom: 30px;
     text-align: center;
@@ -88,7 +89,7 @@ nav a:hover {
     
     position:absolute;
     left:700px;
-    top:548px;
+    top:540px;
     
 }    
 
@@ -96,10 +97,60 @@ nav a:hover {
     
     position:absolute;
     left:80px;
-    top:765px;
+    top:757px;
     
 }    
 
+.sub-titulo{
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    
+}
 
-        
-        
+.sobre-tags{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.tags{
+    line-height: 1.5;
+
+
+} 
+.tags:before{
+    content: "\2217";
+
+}     
+
+.tags:last-child {
+    margin-bottom: 15px;
+}
+
+.estrutura-hmtl{
+    
+
+}
+
+.caixa-estrutura{
+    width: 550px;
+    
+}
+
+.img-html{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+.sub-titulo-h4{
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.negrito{
+    font-weight: bold;
+}
+
